@@ -13,14 +13,20 @@ ML-Jumper Tutorial
 10.	Add a tag ob in the inspector screen
 11.	Add some materials to the objects
 12.	Add this script to the ML Agent, also a behaviour parameter script will automatically be placed with it
- [MLAgent class](./Tutorial_Images/Afbeelding1.png)
- [MLAgent class](Tutorial_Images/Afbeelding2.png)
- [MLAgent class](Tutorial_Images/Afbeelding3.png)
+##
+![MLAgent class](/Tutorial_Images/Afbeelding1.png)
+![MLAgent class](/Tutorial_Images/Afbeelding2.png)
+![MLAgent class](/Tutorial_Images/Afbeelding3.png)
+##
 13.	Add this script to Obstacle
-  [MLAgent class](Tutorial_Images/Afbeelding4.png)
+##
+![MLAgent class](Tutorial_Images/Afbeelding4.png)
+##
 14.	Make a prefab from obstacle by dragging it to the Assets folder
 15.	Make a Spawner script
-  [MLAgent class](Tutorial_Images/Afbeelding5.png)
+##
+![MLAgent class](Tutorial_Images/Afbeelding5.png)
+##
 16.	Place the Spawner script on the Road
 17.	In the inspector of Spawner script you need to give a prefab, drag Obstacle in here
 18.	Make a empy GameObject named SpawnPoint and place it where the Obstacle needs to be spawning
@@ -40,14 +46,22 @@ ML-Jumper Tutorial
 32.	Put everything except the Obstacle with the child in a empty GameObject named TrainingArea
 33.	Make a prefab out of TrainingArea
 34.	Add these paramters to ML Agent
-[MLAgent class](Tutorial_Images/Afbeelding6.png)
- [MLAgent class](Tutorial_Images/Afbeelding7.png)
+##
+![MLAgent class](Tutorial_Images/Afbeelding6.png)
+![MLAgent class](Tutorial_Images/Afbeelding7.png)
+##
 35.	Add these paramters to Road
-[MLAgent class](Tutorial_Images/Afbeelding8.png)
+##
+![MLAgent class](Tutorial_Images/Afbeelding8.png)
+##
 36.	Add these paramters to Obstacle
-[MLAgent class](Tutorial_Images/Afbeelding9.png)
+##
+![MLAgent class](Tutorial_Images/Afbeelding9.png)
+##
 37.	Place the RaySensor so that it looks like this
-[MLAgent class](Tutorial_Images/Afbeelding10.png)
+##
+![MLAgent class](Tutorial_Images/Afbeelding10.png)
+##
 38.	Open Anaconda Navigator
 39.	Open Terminal for ML-Agents environment
 40.	cd to Assets folder of this project

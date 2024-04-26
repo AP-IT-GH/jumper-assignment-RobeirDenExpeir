@@ -1,5 +1,7 @@
-"# jumper-assignment-RobeirDenExpeir" 
-ML-Jumper Tutorial
+# jumper-assignment-RobeirDenExpeir
+
+## Jumper Assignment van Owen Nolis en Robbe Wellens
+
 
 1.	Go to Unity Hub and make a new 3D project
 2.	Open Package Manager and select Packages: Unity Registry
